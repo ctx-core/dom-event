@@ -2,6 +2,20 @@
 	"name": "@ctx-core/event",
 	"version": "3.1.33",
 	"description": "ctx-core event",
+	"keywords": [
+		"ctx-core",
+		"event"
+	],
+	"homepage": "https://github.com/ctx-core/event#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/event/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/event/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
 	"main": "./index.js",
 	"module": "./index.js",
 	"types": "./index.ts",
@@ -9,28 +23,14 @@
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
 		"compile": "tsc -b",
-		"prepublishOnly": "npm run compile",
-		"exec": "$@"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/event/issues"
-	},
-	"keywords": [
-		"ctx-core",
-		"event"
-	],
-	"author": "Brian Takita",
-	"license": "Apache-2.0",
-	"bugs": {
-		"url": "https://github.com/ctx-core/event/issues"
-	},
-	"homepage": "https://github.com/ctx-core/event#readme",
-	"publishConfig": {
-		"access": "public"
+		"exec": "$@",
+		"prepublishOnly": "npm run compile"
 	},
 	"devDependencies": {
 		"typescript": "^4.0.2"
+	},
+	"publishConfig": {
+		"access": "public"
 	},
 	"gitHead": "53c38fba66ea4e954524818084a218aab3a68ce5"
 }
