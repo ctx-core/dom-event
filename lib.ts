@@ -41,8 +41,8 @@ export function _MouseEvent(
 	const mouseEvent = document.createEvent('MouseEvent')
 	mouseEvent.initMouseEvent(
 		eventType,
-		params.bubbles,
-		params.cancelable,
+		params.bubbles || false,
+		params.cancelable || false,
 		params.view || window,
 		params.detail || 0,
 		params.screenX || 0,
