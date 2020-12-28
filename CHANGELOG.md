@@ -1,5 +1,13 @@
 # @ctx-core/event
 
+## 4.1.0
+
+### Minor Changes
+
+- trigger**event**custom=>trigger_custom_event
+- MouseEventParamsInterface
+- trigger**event**native=>trigger_native_event
+
 ## 4.0.6
 
 ### Patch Changes
