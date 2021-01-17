@@ -1,5 +1,11 @@
 # @ctx-core/event
 
+## 5.0.0
+
+### Major Changes
+
+- renamed to @ctx-core/dom-event
+
 ## 4.1.2
 
 ### Patch Changes

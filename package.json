@@ -1,7 +1,7 @@
 {
-	"name": "@ctx-core/event",
-	"version": "4.1.2",
-	"description": "ctx-core event",
+	"name": "@ctx-core/dom-event",
+	"version": "5.0.0",
+	"description": "ctx-core dom event",
 	"keywords": [
 		"ctx-core",
 		"event"
