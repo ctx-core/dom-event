@@ -1,5 +1,11 @@
 # @ctx-core/event
 
+## 4.1.2
+
+### Patch Changes
+
+- deprecate - use @ctx-core/dom-event instead
+
 ## 4.1.0
 
 ### Minor Changes
