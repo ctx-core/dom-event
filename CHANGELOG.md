@@ -1,5 +1,11 @@
 # @ctx-core/event
 
+## 6.3.1
+
+### Patch Changes
+
+- update dependencies
+
 ## 6.3.0
 
 ### Minor Changes
