@@ -1,5 +1,12 @@
 # @ctx-core/event
 
+## 7.0.0
+
+### Major Changes
+
+- \$ suffix for stores
+- \_ suffix for factory functions
+
 ## 6.3.1
 
 ### Patch Changes

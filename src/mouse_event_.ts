@@ -1,6 +1,6 @@
-export function _MouseEvent(
+export function MouseEvent_(
 	eventType: string,
-	params:MouseEventParamsInterface = { bubbles: false, cancelable: false }
+	params:MouseEventParams_I = { bubbles: false, cancelable: false }
 ) {
 	try {
 		return new MouseEvent(eventType, params)
@@ -26,7 +26,7 @@ export function _MouseEvent(
 	)
 	return mouseEvent
 }
-export interface MouseEventParamsInterface {
+export interface MouseEventParams_I {
 	bubbles?:boolean
 	cancelable?:boolean
 	view?:any
@@ -41,4 +41,7 @@ export interface MouseEventParamsInterface {
 	metaKey?:boolean
 	button?:number
 	relatedTarget?:any
+}
+export {
+	MouseEvent_ as _MouseEvent,
 }
