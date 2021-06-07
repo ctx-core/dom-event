@@ -1,5 +1,11 @@
 # @ctx-core/event
 
+## 7.0.2
+
+### Patch Changes
+
+- version bump: run build
+
 ## 7.0.1
 
 ### Patch Changes
