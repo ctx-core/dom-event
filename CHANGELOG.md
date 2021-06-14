@@ -1,5 +1,11 @@
 # @ctx-core/event
 
+## 8.0.0
+
+### Major Changes
+
+- move from dist to src directory
+
 ## 7.0.2
 
 ### Patch Changes
