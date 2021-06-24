@@ -1,5 +1,11 @@
 # @ctx-core/event
 
+## 8.0.8
+
+### Patch Changes
+
+- tsconfig.json: "lib": ["dom", "ESNext"]
+
 ## 8.0.7
 
 ### Patch Changes
