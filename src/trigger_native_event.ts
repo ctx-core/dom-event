@@ -1,4 +1,4 @@
-export function trigger_native_event(el: HTMLElement, event_name: string) {
+export function trigger_native_event(el: HTMLElement, event_name: string):void {
 	const event = document.createEvent('HTMLEvents')
 	event.initEvent(event_name, true, false)
 	el.dispatchEvent(event)

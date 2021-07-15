@@ -1,4 +1,6 @@
-export function trigger_custom_event<T>(el: HTMLElement, event_name: string, detail: T) {
+export function trigger_custom_event<T>(
+	el: HTMLElement, event_name: string, detail: T
+):void {
 	let event
 	if (window.CustomEvent) {
 		event = new CustomEvent<T>(event_name, { detail })

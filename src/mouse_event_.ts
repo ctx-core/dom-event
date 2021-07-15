@@ -1,7 +1,7 @@
 export function MouseEvent_(
 	eventType: string,
 	params:MouseEventParams_I = { bubbles: false, cancelable: false }
-) {
+):MouseEvent {
 	try {
 		return new MouseEvent(eventType, params)
 	} catch (e) {
