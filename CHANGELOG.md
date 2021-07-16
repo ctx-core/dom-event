@@ -1,5 +1,11 @@
 # @ctx-core/event
 
+## 9.0.9
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+
 ## 9.0.8
 
 ### Patch Changes
