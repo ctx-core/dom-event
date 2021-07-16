@@ -1,5 +1,11 @@
 # @ctx-core/event
 
+## 9.0.10
+
+### Patch Changes
+
+- fix: cjs: load as a Promise
+
 ## 9.0.9
 
 ### Patch Changes
