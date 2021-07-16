@@ -1,5 +1,17 @@
 # @ctx-core/event
 
+## 9.0.12
+
+### Patch Changes
+
+- fix: sourceMappingURL: "mapRoot": ""
+
+## 9.0.11
+
+### Patch Changes
+
+- tsconfig.json: "target": "es2019"
+
 ## 9.0.10
 
 ### Patch Changes
