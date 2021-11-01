@@ -1,5 +1,11 @@
 # @ctx-core/event
 
+## 9.0.17
+
+### Patch Changes
+
+- typescript: ^4.4.3 -> ^4.4.4
+
 ## 9.0.16
 
 ### Patch Changes
