@@ -1,5 +1,11 @@
 # @ctx-core/event
 
+## 9.0.18
+
+### Patch Changes
+
+- compile using swc
+
 ## 9.0.17
 
 ### Patch Changes
