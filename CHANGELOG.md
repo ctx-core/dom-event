@@ -1,5 +1,11 @@
 # @ctx-core/event
 
+## 9.0.31
+
+### Patch Changes
+
+- \*.d.ts export
+
 ## 9.0.30
 
 ### Patch Changes
