@@ -1,5 +1,11 @@
 # @ctx-core/event
 
+## 9.0.30
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+
 ## 9.0.29
 
 ### Patch Changes
