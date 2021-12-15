@@ -1,26 +1,26 @@
 {
 	"name": "@ctx-core/dom-event",
-	"version": "9.0.28",
+	"version": "9.0.29",
 	"description": "ctx-core dom event",
 	"keywords": [
 		"ctx-core",
 		"event"
 	],
-	"homepage": "https://github.com/ctx-core/event#readme",
+	"homepage": "https://github.com/ctx-core/dom-event#readme",
 	"bugs": {
-		"url": "https://github.com/ctx-core/event/issues"
+		"url": "https://github.com/ctx-core/dom-event/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ctx-core/event/issues"
+		"url": "https://github.com/ctx-core/dom-event.git"
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
 	"exports": {
 		".": {
-			"types": "./src/index.ts",
-			"import": "./dist/index.js"
+			"import": "./dist/index.js",
+			"types": "./src/index.ts"
 		},
 		"./package.json": "./package.json"
 	},

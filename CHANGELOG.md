@@ -1,5 +1,11 @@
 # @ctx-core/event
 
+## 9.0.29
+
+### Patch Changes
+
+- fix: package.json: exports
+
 ## 9.0.28
 
 ### Patch Changes
