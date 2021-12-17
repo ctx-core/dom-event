@@ -1,5 +1,11 @@
 # @ctx-core/event
 
+## 9.0.35
+
+### Patch Changes
+
+- fix: error TS6059: \* is not under 'rootDir': package.json: types: ./dist/index.d.ts
+
 ## 9.0.34
 
 ### Patch Changes
