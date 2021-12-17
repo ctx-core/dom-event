@@ -1,5 +1,11 @@
 # @ctx-core/event
 
+## 9.0.33
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+
 ## 9.0.32
 
 ### Patch Changes
