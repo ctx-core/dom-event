@@ -1,5 +1,11 @@
 # @ctx-core/event
 
+## 9.0.32
+
+### Patch Changes
+
+- fix: build
+
 ## 9.0.31
 
 ### Patch Changes
