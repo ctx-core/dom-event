@@ -1,5 +1,11 @@
 # @ctx-core/event
 
+## 9.0.36
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 9.0.35
 
 ### Patch Changes
