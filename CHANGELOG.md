@@ -1,5 +1,11 @@
 # @ctx-core/event
 
+## 9.0.37
+
+### Patch Changes
+
+- version bump
+
 ## 9.0.36
 
 ### Patch Changes
