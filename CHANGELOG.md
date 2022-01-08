@@ -1,5 +1,11 @@
 # @ctx-core/event
 
+## 9.0.39
+
+### Patch Changes
+
+- sideEffects = false
+
 ## 9.0.38
 
 ### Patch Changes
