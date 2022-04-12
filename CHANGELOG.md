@@ -1,5 +1,11 @@
 # @ctx-core/event
 
+## 9.0.40
+
+### Patch Changes
+
+- package.json: exports: update
+
 ## 9.0.39
 
 ### Patch Changes
