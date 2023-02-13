@@ -1,5 +1,13 @@
 # @ctx-core/event
 
+## 9.1.0
+
+### Minor Changes
+
+- custom_event\_\_trigger: aliased by trigger_custom_event
+- extract _.js & _.d.ts into directories
+- native_event\_\_trigger: aliased by trigger_native_event
+
 ## 9.0.44
 
 ### Patch Changes
