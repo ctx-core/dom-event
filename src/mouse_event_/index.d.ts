@@ -1,5 +1,6 @@
 export declare function MouseEvent_(
-	eventType:string, params?:MouseEvent__params_T
+	eventType:string,
+	params?:MouseEvent__params_T
 ):MouseEvent
 export type MouseEvent__params_T = MouseEventInit|MouseEventParams_I
 export interface MouseEventParams_I {
