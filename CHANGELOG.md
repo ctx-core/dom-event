@@ -1,5 +1,11 @@
 # @ctx-core/event
 
+## 9.1.20
+
+### Patch Changes
+
+- version bump
+
 ## 9.1.19
 
 ### Patch Changes
