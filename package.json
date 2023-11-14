@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/dom-event",
-	"version": "9.2.1",
+	"version": "9.2.2",
 	"description": "ctx-core dom event",
 	"keywords": [
 		"ctx-core",
@@ -19,6 +19,7 @@
 	"type": "module",
 	"files": [
 		"*.d.ts",
+		"*.json",
 		"./custom_event__trigger",
 		"./mouse_event_",
 		"./native_event__trigger"
