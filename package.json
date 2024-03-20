@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/dom-event",
-	"version": "9.2.10",
+	"version": "9.2.11",
 	"description": "ctx-core dom event",
 	"keywords": [
 		"ctx-core",
@@ -15,7 +15,11 @@
 		"url": "https://github.com/ctx-core/dom-event.git"
 	},
 	"license": "Apache-2.0",
-	"author": "Brian Takita",
+	"author": {
+		"name": "Brian Takita",
+		"url": "https://briantakita.me",
+		"email": "info+ctx-core-dom-event@briantakita.me"
+	},
 	"type": "module",
 	"files": [
 		"*.d.ts",
